@@ -4,4 +4,6 @@ for number in range(3):
 Data Structures: Tuple,
 Tuple: Tuple is immutable - collection given in (), cannot be modified.
 Dictionary: It is mutable, unordered collection of key-value pairs enclosed with {}
-ex: Fruit={"Apple":10, "Orange":20}
+    ex: Fruit={"Apple":10, "Orange":20}
+Set: IT is an unordered and unindexed colleciton of elements enclosed with {}. 
+    Duplicates are not allowed.
