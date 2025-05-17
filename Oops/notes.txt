@@ -6,3 +6,6 @@ class syntax
 Object creation:
     p1=Phone()
     p1.make_calls(2233)
+
+Inheritance:
+class ?childclass(ParentClass):
