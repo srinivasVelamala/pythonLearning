@@ -1,1 +1,7 @@
-
+https://www.youtube.com/watch?v=-65r_3r-nN4
+for number in range(3):
+    print(number)
+Data Structures: Tuple,
+Tuple: Tuple is immutable - collection given in (), cannot be modified.
+Dictionary: It is mutable, unordered collection of key-value pairs enclosed with {}
+ex: Fruit={"Apple":10, "Orange":20}
