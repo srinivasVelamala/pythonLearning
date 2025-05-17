@@ -1,0 +1,8 @@
+class syntax
+    class Phone:
+        def make_calls(number):
+            print("making phone call")
+
+Object creation:
+    p1=Phone()
+    p1.make_calls(2233)
