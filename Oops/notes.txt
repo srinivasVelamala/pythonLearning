@@ -8,4 +8,11 @@ Object creation:
     p1.make_calls(2233)
 
 Inheritance:
-class ?childclass(ParentClass):
+class Childclass(ParentClass):
+Overriding Init:
+    def __init(self,mileage,cost,tyres,hp):
+    super.__init__(mileage,cost)
+Multiple Inheritance:
+    class Childclass(FatherClass,Motherclass)
+
+Multilevel Inheritance:

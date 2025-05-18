@@ -1,0 +1,4 @@
+File Handling: File I/O functions.
+open(file_path, "r")
+r -read , w-write
+
