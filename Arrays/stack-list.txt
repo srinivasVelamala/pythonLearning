@@ -1,0 +1,18 @@
+Stack:
+    FILO
+    stack=[]
+    stack.append("one")
+    stack.push(), stack.pop()
+Deque:
+from collections import Deque
+stack=deque()
+stack.append("x")
+Stack and Deque is same but Deque is fast
+
+Queue:
+LIFO
+get(),empty(),full(),put(x),qsize()
+from queue import LifoQueue
+stack=LifoQueue()
+stack.put(2)
+stack.get() - removing the elements

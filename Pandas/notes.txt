@@ -1,0 +1,4 @@
+Pandas stands for Panel Data and is the core library
+for data manipulation and data analysis.
+--> It consists of single and multidimensional 
+data structures for data manipulation.

@@ -1,0 +1,10 @@
+-> Numpy stands for Numerical python and is the core library
+for numeric and scientific computing.
+
+-> It consists of muliti dimenssional array
+objects and a collection of routines for processing
+those arrays.
+
+import numpy as numpy
+n1=np.array([10,20,30,40])
+n1

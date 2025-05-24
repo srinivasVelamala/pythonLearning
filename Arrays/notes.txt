@@ -1,0 +1,19 @@
+Liner data structure
+Contiguous memory locations 
+Access elements randomly
+Homogenous elements i.e similar elements.
+1-Dimensional Array:
+    1D can be related to a row
+    Elements are stored one after another
+    Only one subscript or index is used.
+
+Declaration and Initialization:
+Array Declaration: 
+  Datatype varname[size]
+Can also do declaration and Initialization at once:
+    DAtatype varname[]={ele1,ele2,ele3,ele4,....}
+
+2-Dimensional Array:
+ 2D can be releated to table or matrix.
+
+ 
