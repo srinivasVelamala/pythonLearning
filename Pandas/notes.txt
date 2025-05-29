@@ -12,3 +12,5 @@ iloc[row,col]   ex:- iloc[0:3,0:2]
 
 More panda functions
 mean(), min(),median(),max()
+
+

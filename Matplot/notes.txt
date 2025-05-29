@@ -1,0 +1,10 @@
+Matpolotlib:
+--> It is a python library used for data visualization.
+-->we can create the bar-plots, scatter-plots, histograms and
+ lot more with matplotlib
+ c:\nivas\pythonlearning> python -m pip install matplotlib
+ Types:
+ 1. Line plot   ex:- plt.plot(x, y, marker='o', color='green', label='Original')
+ 2. Bar plot ex:- plt.bar(categories, values, color='skyblue')
+ 3. Scatter plot   ex:- plt.scatter(x, y, color='red', marker='o')
+ 4. Histograms plot ex:- plt.hist(data, bins=9, color='purple', edgecolor='black')
