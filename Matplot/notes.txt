@@ -8,3 +8,7 @@ Matpolotlib:
  2. Bar plot ex:- plt.bar(categories, values, color='skyblue')
  3. Scatter plot   ex:- plt.scatter(x, y, color='red', marker='o')
  4. Histograms plot ex:- plt.hist(data, bins=9, color='purple', edgecolor='black')
+ 5. Box plot ex:- 
+
+
+ 
