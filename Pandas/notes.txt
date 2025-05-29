@@ -2,3 +2,13 @@ Pandas stands for Panel Data and is the core library
 for data manipulation and data analysis.
 --> It consists of single and multidimensional 
 data structures for data manipulation.
+
+--> Dataframe is a 2-dimensional labelled data-structure.
+--> A data-frame comprises of rows and columns.
+--> Dataframe built in functions. head(), describe(),tail(),shape().
+head()-> gives first 5 records
+tail()->gives last 5 records
+iloc[row,col]   ex:- iloc[0:3,0:2]   
+
+More panda functions
+mean(), min(),median(),max()
