@@ -1,0 +1,8 @@
+Claude Sonet 3.5- Tool to write code in natural, simpler and more 
+accesable
+
+Claute Sonet 3.5:
+    Claude Haiku - Beginner, Free
+    Claude3 Sonnet - Intermediate, minimal cost.
+    Claude3 Opus - Higher scale of intelligence, more cost
+

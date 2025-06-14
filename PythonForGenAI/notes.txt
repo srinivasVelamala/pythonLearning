@@ -1,0 +1,21 @@
+-> Introduction to Gen Alice
+-> Python for GenAI
+    -> Introduction to OpenAI GPT API
+    -> Flask ChatGPT App
+    -> Flask Text to Image App
+What is Gen AI?
+-> Gen AI functions by employing a neural network to anlyze
+data patterns and generate new content based on 
+those patterns.
+
+Discriminative vs Gen AI
+
+Types of Gen AI
+1. Generative Adversarial Networks (GANs).
+2. Variational Autoencoders.
+3. Transformers.
+4. Diffusion Models.
+
+ex: Analyze the data and create content,
+    machine translation. Centiment analysis -takes feedback
+

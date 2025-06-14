@@ -1,0 +1,11 @@
+Setup the dev env:
+Step1:
+ open cli
+Step2:
+ install libraries using pip
+  pip install numpy
+  pip install Flask
+  pip install streamlit
+  pip install torch torchvision torchaudio
+  pip install Transformers
+
