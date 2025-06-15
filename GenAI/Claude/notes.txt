@@ -6,3 +6,4 @@ Claute Sonet 3.5:
     Claude3 Sonnet - Intermediate, minimal cost.
     Claude3 Opus - Higher scale of intelligence, more cost
 
+https://claude.ai/chat/30b9baa9-1932-4891-a47a-6bc6252fdd2c
