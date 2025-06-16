@@ -3,3 +3,8 @@ youtube tracker : 8:22
 https://www.youtube.com/watch?v=-65r_3r-nN4&ab_channel=GreatLearning
 
 https://www.youtube.com/watch?v=hHnvo4f35GA&ab_channel=GreatLearning
+
+https://replit.com   - tool to help running the python code online.
+
+
+Next do : Prompt learning course in Gen AI.
